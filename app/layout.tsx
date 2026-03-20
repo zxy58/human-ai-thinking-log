@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'HUMAN × AI — Thinking Log',
-  description: 'An interactive thinking log for the Human × AI Collaboration Curriculum. Track your reasoning as you work through prompting exercises with AI.',
+  title: 'HUMAN × AI — CS Thinking Log',
+  description: 'A 15-week AI thinking log for CS students. Track your AI interactions, code authorship, and growth toward independent problem-solving across the full curriculum.',
 }
 
 export default function RootLayout({
